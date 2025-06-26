@@ -9,5 +9,8 @@
     "express": "^4.18.2",
     "puppeteer": "^21.4.1",
     "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
